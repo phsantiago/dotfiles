@@ -13,3 +13,5 @@ my awesome unix system dotfiles
 * playerctl
 * material icons
 * polybar
+* aur/ttf-roboto-mono-powerline-git
+* https://github.com/powerline/fonts
